@@ -10,7 +10,11 @@ Project-1 Repository contains the **analysis, code, and visualizations** for the
 - **Workplace Factors**: Effects of company size, work hours, remote work, and wellness programs.
 - **Mental Health Outcomes**: Prevalence of anxiety, depression, and treatment-seeking behavior.
 
-Using statistical analysis and visualizations, we aim to uncover trends and correlations that can inform meaningful interventions.
+This project aims to understand the relationships between demographic factors (age, gender, role, company size), work-related factors (work hours, remote work, benefits), and mental health outcomes (anxiety, depression, treatment seeking) in the tech sector. We analyze the prevalence of mental health conditions, identify potential risk factors in the tech workplace, and assess the effectiveness of company wellness programs.
+
+The goal is to investigate factors impacting mental well-being, with a focus on identifying patterns in mental health issues, treatment-seeking behavior, and workplace support mechanisms.
+
+The repository analyzes data from the **Mental Health in Tech Survey**, providing insights into mental health-related issues across different demographics, roles, company sizes, and countries within the tech industry. Key findings include statistical trends in mental health treatment-seeking behavior, support programs, and work interference due to mental health. Visualizations, descriptive statistics, and predictive modeling are used to uncover correlations and trends in the data, with an aim to inform potential interventions and areas for further research.
 
 ---
 
