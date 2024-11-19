@@ -22,18 +22,27 @@ The analysis is based on the **2017 Mental Health in Tech Survey**, available on
 
 ## Repository Contents
 
+- **`ReadMe/`**: This file.
+- **`glossary/`**: 
+  - `Column Glossary.pdf`: – Documentation and data dictionary for the survey dataset.
 - **`notebooks/`**: 
   - `OSMH_Survey.ipynb` – Jupyter Notebook with data cleaning, analysis, and visualizations.
+- `**proposal/`**:
+  - `Project Proposal - Mental Well-being in the Tech Industry An Exploratory Data Analysis.pdf`: Project proposal outlining the project's goals, key questions, and analysis plan.
 - **`report/`**: 
   - `Mental_Health_Results.pdf` – Summary of findings and recommendations.
 - **`slides/`**: 
-  - Presentation slides with key insights and visuals.
+  - `Project One UCI.pdf` – Presentation slides with key insights and visuals.
 - **`proposal/`**: 
-  - Project proposal outlining goals and analysis plan.
-- **`glossary/`**: 
-  - Data dictionary for the survey dataset.
+  - `Project Proposal - Mental Well-being in the Tech Industry An Exploratory Data Analysis.pdf` – Project proposal outlining goals and analysis plan.
+- **`cleaned data/`**:
+  - `cleaned_data_df.csv and cleaned_df.csv` –  The cleaned data which is the output of OSMH_Survey_Data_Exploration_Cleanup.ipynb.
 - **`code_description/`**: 
   - Documentation of Python code and methods used.
+- **`slides/`**:
+  - `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
+- **`report/`**:
+  `Synopsis of Mental Heath in Tech Results.pdf`: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
 
 ---
 
