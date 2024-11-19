@@ -38,11 +38,11 @@ The analysis is based on the **2017 Mental Health in Tech Survey**, available on
 - **`cleaned data/`**:
   - `cleaned_data_df.csv and cleaned_df.csv` –  The cleaned data which is the output of OSMH_Survey_Data_Exploration_Cleanup.ipynb.
 - **`code_description/`**: 
-  - Documentation of Python code and methods used.
+  - `Mental Health in Tech Survey Code Description.pdf`: Detailed description of the Python code used in the analysis, including explanations of statistical concepts and techniques.
 - **`slides/`**:
   - `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
 - **`report/`**:
-  `Synopsis of Mental Heath in Tech Results.pdf`: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
+  - `Synopsis of Mental Heath in Tech Results.pdf`: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
 
 ---
 
