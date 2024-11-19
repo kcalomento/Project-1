@@ -22,33 +22,19 @@ The repository analyzes data from the **Mental Health in Tech Survey**, providin
 
 The analysis is based on the **2014 Mental Health in Tech Survey**, available on [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
 
-- `mental_health_analysis.ipynb`: Jupyter Notebook containing the complete data cleaning, preprocessing, statistical analysis, and visualization code.
-
 ---
 
 ## Repository Contents
 
 - **`ReadMe/`**: This file.
-- **`glossary/`**: 
-  - `Column Glossary.pdf`: – Documentation and data dictionary for the survey dataset.
-- **`notebooks/`**: 
-  - `OSMH_Survey.ipynb` – Jupyter Notebook with data cleaning, analysis, and visualizations.
-- `**proposal/`**:
-  - `Project Proposal - Mental Well-being in the Tech Industry An Exploratory Data Analysis.pdf`: Project proposal outlining the project's goals, key questions, and analysis plan.
-- **`report/`**: 
-  - `Mental_Health_Results.pdf` – Summary of findings and recommendations.
-- **`slides/`**: 
-  - `Project One UCI.pdf` – Presentation slides with key insights and visuals.
-- **`proposal/`**: 
-  - `Project Proposal - Mental Well-being in the Tech Industry An Exploratory Data Analysis.pdf` – Project proposal outlining goals and analysis plan.
-- **`cleaned data/`**:
-  - `cleaned_data_df.csv and cleaned_df.csv` –  The cleaned data which is the output of OSMH_Survey_Data_Exploration_Cleanup.ipynb.
-- **`code_description/`**: 
-  - `Mental Health in Tech Survey Code Description.pdf`: Detailed description of the Python code used in the analysis, including explanations of statistical concepts and techniques.
-- **`slides/`**:
-  - `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
-- **`report/`**:
-  - `Synopsis of Mental Heath in Tech Results.pdf`: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
+- **`glossary/`**: `Column Glossary.pdf`: Documentation and data dictionary for the survey dataset.
+- **`proposal/`**:  `Project Proposal Mental Well-being in the Tech Industry An Exploratory Data Analysis.pdf`: Project proposal outlining the project's goals, key questions, and analysis plan.
+- **`notebooks/`**: `OSMH_Survey_Data_Exploration_Cleanup.ipynb`: Jupyter Notebook containing the complete data cleaning and preprocessing.
+`OSMH_Survey_Data_Analysis.ipynb`:  Jupyter Notebook containing statistical analysis and visualization code.  
+- **`cleaned data/`**: `cleaned_data_df.csv and cleaned_df.csv`: The cleaned data which is the output of OSMH_Survey_Data_Exploration_Cleanup.ipynb.
+- **`code_description/`**: `Mental Health in Tech Survey Code Description.pdf`: Detailed description of the Python code used in the analysis, including explanations of statistical concepts and techniques.
+- **`report/`**: Synopsis of Mental Heath in Tech Results.pdf: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
+- **`slides/`**: `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
 
 ---
 
@@ -59,7 +45,7 @@ The analysis is based on the **2014 Mental Health in Tech Survey**, available on
    - Focuses on tech-related responses by filtering out non-tech respondents. 
 
 2. **Exploratory Data Analysis (EDA)**  
-  - Includes visualizations for gender distribution, mental health consequence expectations, and treatment-seeking behavior by demographic factors.
+   - Includes visualizations for gender distribution, mental health consequence expectations, and treatment-seeking behavior by demographic factors.
    - Compares treatment-seeking behavior rates in relation to company size, wellness program discussions, and leave policies.
 
 3. **Statistical Analysis**  
