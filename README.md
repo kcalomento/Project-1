@@ -1,6 +1,6 @@
 # Mental Well-Being in the Tech Industry
 
-Project-1 Repository contains the **analysis, code, and visualizations** for the **Mental Health in Tech Survey (2017)**. We explore factors influencing mental well-being in the tech industry and provide actionable insights for improved workplace support. This project investigates factors influencing mental well-being within the tech industry, using statistical analysis and visualizations.
+Project-1 Repository contains the **analysis, code, and visualizations** for the **Mental Health in Tech Survey (2014)**. We explore factors influencing mental well-being in the tech industry and provide actionable insights for improved workplace support. This project investigates factors influencing mental well-being within the tech industry, using statistical analysis and visualizations.
 
 ---
 
@@ -20,7 +20,7 @@ The repository analyzes data from the **Mental Health in Tech Survey**, providin
 
 ## Data Source
 
-The analysis is based on the **2017 Mental Health in Tech Survey**, available on [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
+The analysis is based on the **2014 Mental Health in Tech Survey**, available on [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
 
 - `mental_health_analysis.ipynb`: Jupyter Notebook containing the complete data cleaning, preprocessing, statistical analysis, and visualization code.
 
