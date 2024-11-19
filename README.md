@@ -1,6 +1,6 @@
 # Mental Well-being in the Tech Industry
 
-Project-1 Repository contains the **analysis, code, and visualizations** for the **Mental Health in Tech Survey (2017)**. We explore factors influencing mental well-being in the tech industry and provide actionable insights for improved workplace support.
+Project-1 Repository contains the **analysis, code, and visualizations** for the **Mental Health in Tech Survey (2017)**. We explore factors influencing mental well-being in the tech industry and provide actionable insights for improved workplace support. This project investigates factors influencing mental well-being within the tech industry, using statistical analysis and visualizations.
 
 ---
 
