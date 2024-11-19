@@ -55,19 +55,25 @@ The analysis is based on the **2017 Mental Health in Tech Survey**, available on
 ## Key Features
 
 1. **Data Preprocessing**  
-   - Standardization of categorical variables, handling of missing data, and filtering responses to focus on the tech industry.  
+   - Standardizes categorical variables, manages missing data, and handles age outliers.
+   - Focuses on tech-related responses by filtering out non-tech respondents. 
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Visualizations of demographics, treatment-seeking behavior, and workplace policy impacts.
+  - Includes visualizations for gender distribution, mental health consequence expectations, and treatment-seeking behavior by demographic factors.
+   - Compares treatment-seeking behavior rates in relation to company size, wellness program discussions, and leave policies.
 
 3. **Statistical Analysis**  
-   - Correlation analysis, chi-squared tests, and regression modeling.
+   - Chi-squared and regression analyses are used to identify key predictors of mental health treatment-seeking behavior.
+   - Correlation matrix and feature importance visualizations highlight significant variables affecting mental well-being.
 
 4. **Predictive Modeling**  
-   - Logistic regression to predict treatment-seeking behavior based on workplace and demographic factors.
+   - Logistic regression models predict mental health treatment-seeking behavior based on workplace and demographic factors.
 
 5. **Country-Specific Insights**  
-   - Analysis of mental health trends across different countries.
+   - Analysis of treatment-seeking behavior across different countries, revealing cultural and policy-driven differences.
+  
+6. **Recommendations**:
+   - Suggested interventions based on observed trends, such as tailored support programs, enhanced workplace culture, and region-specific support.
 
 ---
 
@@ -82,18 +88,17 @@ The analysis requires **Python 3** and the following libraries:
 
 ## Usage
 
-1. **Open the Jupyter Notebook**:  
-   Navigate to the `notebooks/` folder and launch the Jupyter Notebook:
+1. **Clone the repository**:
    ```bash
-   cd notebooks/
-   jupyter notebook OSMH_Survey.ipynb
-## Review the Findings
+   git clone <repository-url>
+   cd mental-health-tech
+   ```
 
-1. **Summary Report**:  
-   Navigate to `report/Mental_Health_Results.pdf` to review the full analysis and findings.
+2. **Run the Analysis**:
+   Navigate to `notebooks/` and open the Jupyter notebook.
 
-2. **Presentation Slides**:  
-   Navigate to `slides/` to explore key insights and visuals.
+3. **Report the Summary**:
+   Findings are available in `report/`.
 
 ---
 
