@@ -1,4 +1,4 @@
-# Mental Well-being in the Tech Industry
+# Mental Well-Being in the Tech Industry
 
 Project-1 Repository contains the **analysis, code, and visualizations** for the **Mental Health in Tech Survey (2017)**. We explore factors influencing mental well-being in the tech industry and provide actionable insights for improved workplace support. This project investigates factors influencing mental well-being within the tech industry, using statistical analysis and visualizations.
 
@@ -71,14 +71,6 @@ The analysis is based on the **2017 Mental Health in Tech Survey**, available on
 
 ---
 
-## Key Findings
-
-- **Gender Disparity**: Significant differences in mental health outcomes based on gender.  
-- **Workplace Support**: Company size and wellness programs strongly influence treatment-seeking behavior.  
-- **Cultural Insights**: Treatment-seeking behavior varies by region and workplace policies.  
-
----
-
 ## Dependencies
 
 The analysis requires **Python 3** and the following libraries:  
@@ -95,7 +87,7 @@ The analysis requires **Python 3** and the following libraries:
    ```bash
    cd notebooks/
    jupyter notebook OSMH_Survey.ipynb
-## 📄 Review the Findings
+## Review the Findings
 
 1. **Summary Report**:  
    Navigate to `report/Mental_Health_Results.pdf` to review the full analysis and findings.
@@ -105,25 +97,32 @@ The analysis requires **Python 3** and the following libraries:
 
 ---
 
-## 📈 Methodology
+## Analysis Methodology
 
 The analysis depicts the following techniques:
 
 1. **Descriptive Statistics and Visualization**  
-   - Explore data distributions with histograms, bar plots, and pie charts.
+   - Distributions, frequencies, means, and visualizations (histograms, pie charts, bar plots) are used to understand the data.
 
 2. **Correlation Analysis**  
-   - Highlight relationships between variables using scatter plots and correlation matrices.
+   - Relationships between variables are examined using correlation matrices and scatter plots with regression lines.
 
-3. **Predictive Modeling**  
-   - Use logistic regression to predict mental health treatment-seeking behavior.
+3. **Feature Engineering and Selection** 
+   - Categorical features are encoded, and a chi-squared test is employed for feature selection.
 
-4. **Feature Selection**  
-   - Employ chi-squared tests to identify significant predictors.
+4. **Predictive Modeling (Logistic Regression)**  
+   - Logistic regression with L1 regularization (Lasso) is used to model the relationship between features and treatment-seeking behavior.
+  
+---
+
+## Key Findings
+
+- **Gender Disparity**: A significant gender imbalance exists in the tech industry, potentially contributing to disparities in mental health experiences.  
+- **Workplace Factors**: Work interference and access to mental health benefits are significantly associated with mental health outcomes.  
+- **Wellness Programs**: Effective wellness programs that address mental health show promise in improving treatment-seeking behavior.  
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**.  
-For more details, see the `LICENSE` file included in this repository.
