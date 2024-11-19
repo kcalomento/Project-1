@@ -22,6 +22,8 @@ The repository analyzes data from the **Mental Health in Tech Survey**, providin
 
 The analysis is based on the **2017 Mental Health in Tech Survey**, available on [Kaggle](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
 
+- `mental_health_analysis.ipynb`: Jupyter Notebook containing the complete data cleaning, preprocessing, statistical analysis, and visualization code.
+
 ---
 
 ## Repository Contents
