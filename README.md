@@ -36,6 +36,7 @@ The analysis is based on the **2014 Mental Health in Tech Survey**, available on
 - **`report/`**: Synopsis of Mental Heath in Tech Results.pdf: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
 - **`slides/`**: `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
 - **`working folders for group members/`**: `sarah_analysis`, `sylvester_analysis`, `kirsten_analysis`, and `alex_analysis` folders containing individual work product.
+- **`images/`**:  folder containing the visualizations produced by the `OSMH_Survey_Data_Analysis.ipynb` Jupyter Notebook
 
 ---
 
