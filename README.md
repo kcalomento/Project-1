@@ -6,11 +6,11 @@ Project-1 Repository contains the **analysis, code, and visualizations** for the
 
 ## Overview
 
-- **Demographics**: The impact of age, gender, and roles on mental health.
-- **Workplace Factors**: Effects of company size, work hours, remote work, and wellness programs.
-- **Mental Health Outcomes**: Prevalence of anxiety, depression, and treatment-seeking behavior.
+- **Demographics**: The impact of age and gender on mental health.
+- **Workplace Factors**: Effects of company size, remote work, ease of securing leave for mental health issues, mental health work interference, and including mental health in wellness program discussions.
+- **Country Factors**: How inclusion of mental health in wellness program discussion, ease of securing leave for mental health issues, and seeking mental health treatment vary by country.
 
-This project aims to understand the relationships between demographic factors (age, gender, role, company size), work-related factors (work hours, remote work, benefits), and mental health outcomes (anxiety, depression, treatment seeking) in the tech sector. We analyze the prevalence of mental health conditions, identify potential risk factors in the tech workplace, and assess the effectiveness of company wellness programs.
+This project aims to understand the relationships between demographic factors (age, gender, company size), work-related factors (remote work, availability of mental health benefits), and mental health outcomes (seeking mental health treatment) in the tech sector. We analyze the prevalence of mental health conditions, identify potential risk factors in the tech workplace, and assess the effectiveness of company wellness programs.
 
 The goal is to investigate factors impacting mental well-being, with a focus on identifying patterns in mental health issues, treatment-seeking behavior, and workplace support mechanisms.
 
@@ -35,6 +35,7 @@ The analysis is based on the **2014 Mental Health in Tech Survey**, available on
 - **`code_description/`**: `Mental Health in Tech Survey Code Description.pdf`: Detailed description of the Python code used in the analysis, including explanations of statistical concepts and techniques.
 - **`report/`**: Synopsis of Mental Heath in Tech Results.pdf: Comprehensive report summarizing the findings, providing conclusions of the analysis, and proposing recommendations based on the analysis.
 - **`slides/`**: `Project One UCI.pdf`: Presentation slides highlighting the key findings and insights.  Exported visualizations and graphs used in the report.
+- **`working folders for group members/`**: `sarah_analysis`, `sylvester_analysis`, `kirsten_analysis`, and `alex_analysis` folders containing individual work product.
 
 ---
 
@@ -110,7 +111,8 @@ The analysis depicts the following techniques:
 
 - **Gender Disparity**: A significant gender imbalance exists in the tech industry, potentially contributing to disparities in mental health experiences.  
 - **Workplace Factors**: Work interference and access to mental health benefits are significantly associated with mental health outcomes.  
-- **Wellness Programs**: Effective wellness programs that address mental health show promise in improving treatment-seeking behavior.  
+- **Wellness Programs**: Effective wellness programs that address mental health show promise in improving treatment-seeking behavior.
+- **Country Factors**:  The major feature which was found to vary significantly among countries is the ease with which leave can be secured for mental health issues.
 
 ---
 
